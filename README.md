@@ -11,3 +11,10 @@ The Netflix Content Insights Dashboard enables users to analyze and visualize th
 6. How does the release year of content relate to age ratings (e.g., are newer releases more family-friendly or adult-oriented)?
 7. What is the distribution of First Category content?
 8. What is distribution of Rating with First Category?
+
+## Preview
+### Movies
+![Screenshot 2024-10-14 204044](https://github.com/user-attachments/assets/a75d7d6d-1d1e-48c8-9a3b-fabcfdc8bc54)
+
+### Tv Shows
+![Screenshot 2024-10-14 204210](https://github.com/user-attachments/assets/73da3840-a17e-484a-886a-a9124ab11135)
