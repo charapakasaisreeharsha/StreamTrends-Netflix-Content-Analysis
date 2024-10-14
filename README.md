@@ -3,11 +3,11 @@
 
 ## Project Overview
 The Netflix Content Insights Dashboard enables users to analyze and visualize the content available on Netflix. It helps answer key business questions such as: 
----> What is the distribution of content types (Movies vs. TV Shows)?
----> What is the trend of new content being added over time? (e.g., monthly or yearly additions)
----> Which countries produce the most content available on Netflix?
----> What is the average duration of movies and TV shows (number of seasons)?
----> What is the distribution of age ratings (e.g., TV-MA, PG-13) across content?
----> How does the release year of content relate to age ratings (e.g., are newer releases more family-friendly or adult-oriented)?
----> What is the distribution of First Category content?
----> What is distribution of Rating with First Category?
+1. What is the distribution of content types (Movies vs. TV Shows)?
+2. What is the trend of new content being added over time? (e.g., monthly or yearly additions)
+3. Which countries produce the most content available on Netflix?
+4. What is the average duration of movies and TV shows (number of seasons)?
+5. What is the distribution of age ratings (e.g., TV-MA, PG-13) across content?
+6. How does the release year of content relate to age ratings (e.g., are newer releases more family-friendly or adult-oriented)?
+7. What is the distribution of First Category content?
+8. What is distribution of Rating with First Category?
