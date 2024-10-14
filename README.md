@@ -12,6 +12,8 @@ The Netflix Content Insights Dashboard enables users to analyze and visualize th
 7. What is the distribution of First Category content?
 8. What is distribution of Rating with First Category?
 
+## Dataset
+Visit Kaggle https://www.kaggle.com/datasets/shivamb/netflix-shows/data
 ## Preview
 ### Movies
 ![Screenshot 2024-10-14 204044](https://github.com/user-attachments/assets/a75d7d6d-1d1e-48c8-9a3b-fabcfdc8bc54)
